@@ -1,21 +1,16 @@
 # Standard-Chartered-_-BankTech-_online-KYC
 Online KYC Verification with Deepface,OpenCv and Pytesseract
 
-Packages and libraries used 
+## Packages and Libraries Used
 
-Flask (for backend)
+- Flask (for backend)
+- Bootstrap
+- Supabase (for database storage)
+- Deepface
+- OpenCV
+- WTForms
+- pytesseract
 
-Bootstrap
-
-Supabase (for database storage)
-
-Deepface
-
-OpenCv
-
-WTForms
-
-pytesseract
 
 
 Workflow diagram of the project:
