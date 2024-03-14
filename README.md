@@ -11,7 +11,7 @@ Online KYC Verification with Deepface,OpenCv and Pytesseract
 - WTForms
 - pytesseract
 
-##Workflow diagram of the project:
+## Workflow diagram of the project:
 
 ![Untitled-2023-12-06-0232](https://github.com/AnujxRobin/Standard-Chartered-_-BankTech-_online-KYC/assets/131231136/2f133b00-0877-4dc5-a338-433ecb225ceb)
 
