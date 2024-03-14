@@ -56,4 +56,6 @@ Online KYC Verification with Deepface,OpenCv and Pytesseract
 ![step5](https://github.com/AnujxRobin/Standard-Chartered-_-BankTech-_online-KYC/assets/131231136/c25f6800-3676-4374-98fb-b84d6118aa75)
 
 ## Video Demo:
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://github.com/AnujxRobin/Standard-Chartered-_-BankTech-_online-KYC/assets/131231136/80f1733e-103c-411e-bd87-f5a0f2ddd75e)https://github.com/AnujxRobin/Standard-Chartered-_-BankTech-_online-KYC/assets/131231136/80f1733e-103c-411e-bd87-f5a0f2ddd75e)]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1zLG0OEUT8-mqoVdfDPpP3AVtYwewkX3a/view?usp=sharing)https://drive.google.com/file/d/1zLG0OEUT8-mqoVdfDPpP3AVtYwewkX3a/view?usp=sharing)
+
+[Link to Video Demo](https://drive.google.com/file/d/1zLG0OEUT8-mqoVdfDPpP3AVtYwewkX3a/view?usp=sharing)
+
