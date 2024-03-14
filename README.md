@@ -57,4 +57,4 @@ Online KYC Verification with Deepface,OpenCv and Pytesseract
 
 ## Video Demo:
 
-[![Video Demo](https://www.example.com/example_image.png)](https://drive.google.com/file/d/1zLG0OEUT8-mqoVdfDPpP3AVtYwewkX3a/view?usp=sharing)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
