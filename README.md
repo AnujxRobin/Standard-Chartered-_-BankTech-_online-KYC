@@ -1,6 +1,15 @@
 # Standard-Chartered-_-BankTech-_online-KYC
 Online KYC Verification with Deepface,OpenCv and Pytesseract
 
+## Team Banktech
+
+- Anuj Jha
+- Dimpy Singh
+- Aayush Kumar
+- Akash Kumar Singh
+- Sarthak Agarwal
+- Divyanshu Divya
+
 ## Packages and Libraries Used
 
 - Flask (for backend)
@@ -10,6 +19,9 @@ Online KYC Verification with Deepface,OpenCv and Pytesseract
 - OpenCV
 - WTForms
 - pytesseract
+
+### Video Demo Link is at the end of this README file , below screenshots show the workflow and important aspects of the project. Please go through it.
+
 
 ## Workflow diagram of the project:
 
@@ -43,5 +55,6 @@ Online KYC Verification with Deepface,OpenCv and Pytesseract
 
 ![step5](https://github.com/AnujxRobin/Standard-Chartered-_-BankTech-_online-KYC/assets/131231136/c25f6800-3676-4374-98fb-b84d6118aa75)
 
+## Video Demo:
 
-
+[![Video Demo](https://www.example.com/example_image.png)](https://drive.google.com/file/d/1zLG0OEUT8-mqoVdfDPpP3AVtYwewkX3a/view?usp=sharing)
